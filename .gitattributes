@@ -1,0 +1,9 @@
+# Ignore native and auto-generated files for language stats
+android/** linguist-vendored
+ios/** linguist-vendored
+macos/** linguist-vendored
+windows/** linguist-vendored
+linux/** linguist-vendored
+web/** linguist-vendored
+test/** linguist-vendored
+build/** linguist-vendored
